@@ -35,6 +35,7 @@ img {
 .header-container{
     padding: 20px 0;
     display: flex;
+    flex-wrap: wrap;
 }
 .logo{
     margin-right: 148px;
@@ -43,6 +44,7 @@ img {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   list-style-type: none;
 }
